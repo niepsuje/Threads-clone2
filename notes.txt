@@ -8,3 +8,10 @@ icons.js.org
 
 
 
+
+
+////////////////// Commit 2. /////////////////////////
+-nowy folder - component
+-nowy komponent - post - będzie on używany w index.vue - będzie w przyszłości połączony z bazą danych
+
+

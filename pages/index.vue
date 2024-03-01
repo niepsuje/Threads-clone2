@@ -4,7 +4,7 @@
             <div class="mx-auto max-w-[500px] overflow-hidden">
                 <div id="Posts" class="px-4 max-w-[600px] mx-auto">
                     <div class="text-white" v-if="isPosts" v-for="post in posts" :key="post">
-                        {{ post }}
+                        <Post :post="post" @isDeleted="posts = []" />
                     </div>
                 </div>
             </div>
