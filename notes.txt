@@ -10,8 +10,14 @@ icons.js.org
 
 
 
-////////////////// Commit 2. /////////////////////////
+////////////////// Commit 2-3. /////////////////////////
 -nowy folder - component
--nowy komponent - post - będzie on używany w index.vue - będzie w przyszłości połączony z bazą danych
+-nowy komponent - Post.vue - będzie on używany w index.vue - będzie w przyszłości połączony z bazą danych
 
 
+
+
+
+////////////////// Commit 4. /////////////////////////
+-tworzę nakładkę na post
+-nowy komponent - component/CreatePost.vue 
