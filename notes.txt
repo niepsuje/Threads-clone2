@@ -30,3 +30,12 @@ icons.js.org
 -strona autoryzacyzacyjna - LoginPage
 - nowy plik page/auth.vue
 
+
+
+
+
+////////////////// Commit 6. /////////////////////////
+-narzut na menu - menu modal owerlay 
+
+
+

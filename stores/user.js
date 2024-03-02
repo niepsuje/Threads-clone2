@@ -4,7 +4,7 @@ export const useUserStore = defineStore("user", {
     state: () => ({
         posts: [],
         isMenuOverlay: false,
-        isLogoutOvelay: false,
+        isLogoutOverlay: false,
     }),
 })
 
