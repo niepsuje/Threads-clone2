@@ -21,3 +21,12 @@ icons.js.org
 ////////////////// Commit 4. /////////////////////////
 -tworzę nakładkę na post
 -nowy komponent - component/CreatePost.vue 
+
+
+
+
+
+////////////////// Commit 5. /////////////////////////
+-strona autoryzacyzacyjna - LoginPage
+- nowy plik page/auth.vue
+
