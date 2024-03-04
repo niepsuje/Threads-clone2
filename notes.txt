@@ -39,3 +39,8 @@ icons.js.org
 
 
 
+
+
+////////////////// Commit 7. /////////////////////////
+-tworzenie bazy na Superbase.com i połączenie jej z Githubem
+
