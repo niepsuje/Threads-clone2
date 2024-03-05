@@ -44,3 +44,14 @@ icons.js.org
 ////////////////// Commit 7. /////////////////////////
 -tworzenie bazy na Superbase.com i połączenie jej z Githubem
 
+
+
+
+
+////////////////// Commit 8. /////////////////////////
+-ustawienie prizma 
+->prisma init
+-na koniec po wprowadzeniu zmian w  shema.prisma
+    ->npx prisma generate
+    ->npx prisma migrate dev --name init
+
